@@ -18,12 +18,10 @@
         Title="Factura" Height="450" Width="800">
     
     <Grid>
-        <!--<materialDesign:Card Padding="32" Margin="16">
+        <materialDesign:Card Padding="32" Margin="16">
             <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}">Estados de factura</TextBlock>
-        </materialDesign:Card>-->
-        <StackPanel>
-            <Image Source="/thank.png" Stretch="Fill" Height="80" Width="120" VerticalAlignment="Top"/>
-
-        </StackPanel>
+            
+        </materialDesign:Card>
+        
     </Grid>
 </Window>
