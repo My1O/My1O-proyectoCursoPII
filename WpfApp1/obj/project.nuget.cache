@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RerdYuEt7Ogx6jQBRQT0/X8s+reUjS1cT2a4U43jGsDXq256AoOZ1BGNsXWcsO61ZCS0yJ1YTckOywzQ1bWiQw==",
+  "dgSpecHash": "QiaClsnrW8VSZ7Cepjnq/YukfeM6HkJmYxH3YiVUHrUPhUjPyiYQBydKKBlIXleVlRpof3uYwc41ocslrRZsrg==",
   "success": true,
   "projectFilePath": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilo Castro\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\Camilo Castro\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
