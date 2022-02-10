@@ -29,6 +29,9 @@ namespace WpfApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             RegistroProducto registro = new RegistroProducto();
+            registro.Show();
+            
+            //MessageBox.Show("Has pulsado correctamente");
         }
     }
 }
