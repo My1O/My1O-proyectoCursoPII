@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp1.views;
 
-namespace WpfApp1
+namespace WpfApp1.views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for RegistroProducto.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class RegistroProducto : Window
     {
-        public MainWindow()
+        public RegistroProducto()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            RegistroProducto registro = new RegistroProducto();
         }
     }
 }

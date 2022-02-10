@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\My1O-proyectoCursoPII\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\My1O-proyectoCursoPII\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\Camilo Castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Ing.Sis\\ProgramacionII\\proyectoProgramacion2\\My1O-proyectoCursoPII\\My1O-proyectoCursoPII\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -157,7 +157,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

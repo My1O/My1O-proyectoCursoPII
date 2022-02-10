@@ -15,13 +15,21 @@
         FontFamily="{DynamicResource MaterialDesignFont}"
         
         mc:Ignorable="d"
-        Title="Factura" Height="450" Width="800">
-    
+        Title="Principal" Height="450" Width="800">
+
     <Grid>
-        <materialDesign:Card Padding="32" Margin="16">
-            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}">Estados de factura</TextBlock>
-            
+        <materialDesign:Card Padding="32" Margin="17,13,15,19" RenderTransformOrigin="0.5,0.5">
+            <materialDesign:Card.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.182"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </materialDesign:Card.RenderTransform>
+            <Button Content="Producto" HorizontalAlignment="Left" Margin="263,209,0,0" VerticalAlignment="Top" Height="39" Width="148" Click="Button_Click"/>
+
         </materialDesign:Card>
-        
+
     </Grid>
 </Window>

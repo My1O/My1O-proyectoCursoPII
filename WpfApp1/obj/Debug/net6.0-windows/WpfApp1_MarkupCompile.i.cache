@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\WpfApp1\App.xaml
-1-1584084872
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\App.xaml
+2624901215
 
-8-1990760460
-196327166193
-main\MainWindow.xaml;
+8-1622156874
+1961089764436
+main\MainWindow.xaml;views\RegistroProducto.xaml;
 
-False
+True
 
