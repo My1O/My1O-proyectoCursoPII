@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\App.xaml
-2624901215
+4-1378432530
 
-8-1622156874
+11-534120099
 1961089764436
-main\MainWindow.xaml;views\RegistroProducto.xaml;
+main\MainWindow.xaml;views\MenuPrincipal.xaml;views\MostrarProductos.xaml;views\RegistrarProducto.xaml;
 
 True
 

@@ -15,21 +15,14 @@
         FontFamily="{DynamicResource MaterialDesignFont}"
         
         mc:Ignorable="d"
-        Title="Principal" Height="450" Width="800">
+        Title="Principal" Height="599" Width="975">
 
-    <Grid>
-        <materialDesign:Card Padding="32" Margin="17,13,15,19" RenderTransformOrigin="0.5,0.5">
-            <materialDesign:Card.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="0.182"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </materialDesign:Card.RenderTransform>
-            <Button Content="Producto" HorizontalAlignment="Left" Margin="263,209,0,0" VerticalAlignment="Top" Height="39" Width="148" Click="Button_Click"/>
-
-        </materialDesign:Card>
-
+    <Grid  Background="Azure">
+        <StackPanel VerticalAlignment="Bottom" Background="Yellow">
+            <Button x:Name="btnProducto" Content="Ingresar Producto" Height="50" Width="250" Click="BtnProducto" FontSize="25" />
+            <Button x:Name="btnVerProducto" Content="Ver producto" Height="50" Width="250" Click="btnVerProducto_Click" FontSize="25"></Button>
+            <Button x:Name="btnSalirMain" Content="Salir"  Height="50" Width="250" FontSize="25" Click="btnSalirMain_Click"/>
+        </StackPanel>
+        <Image HorizontalAlignment="Center" Height="214" Margin="0,105,0,0" VerticalAlignment="Top" Width="320" Source="/misc/mainWarehouse.jpg"/>
     </Grid>
 </Window>

@@ -33,13 +33,11 @@ C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proye
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\main\MainWindow.g.cs
-C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\RegistroProducto.g.cs
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\App.baml
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\main\MainWindow.baml
-C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\RegistroProducto.baml
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
@@ -50,3 +48,9 @@ C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proye
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
 C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\MostrarProductos.g.cs
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\MostrarProductos.baml
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\MenuPrincipal.g.cs
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\MenuPrincipal.baml
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\RegistrarProducto.g.cs
+C:\Ing.Sis\ProgramacionII\proyectoProgramacion2\My1O-proyectoCursoPII\My1O-proyectoCursoPII\WpfApp1\obj\Debug\net6.0-windows\views\RegistrarProducto.baml

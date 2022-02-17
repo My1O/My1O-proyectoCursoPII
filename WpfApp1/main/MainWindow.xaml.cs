@@ -26,12 +26,21 @@ namespace WpfApp1
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+            private void BtnProducto(object sender, RoutedEventArgs e)
         {
-            RegistroProducto registro = new RegistroProducto();
-            registro.Show();
-            
-            //MessageBox.Show("Has pulsado correctamente");
+            MenuPrincipal menu = new MenuPrincipal();
+            menu.Show();
+        }
+       
+        private void btnSalirMain_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+        private void btnVerProducto_Click(object sender, RoutedEventArgs e)
+        {
+            MostrarProductos mostrar = new MostrarProductos();
+            mostrar.Show();
         }
     }
 }
