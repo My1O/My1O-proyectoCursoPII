@@ -8,13 +8,34 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="main\" />
+    <None Remove="main\FondoLogin.jpg" />
+    <None Remove="main\Icono_Login.png" />
+    <None Remove="main\llave.png" />
+    <None Remove="main\perfil.png" />
+    <None Remove="main\photo-1512425296298-43a8c196eeed.jpg" />
+    <None Remove="main\Salir.png" />
+    <None Remove="main\user %281%29.png" />
+    <None Remove="main\user.png" />
+    <None Remove="views\photo-1512425296298-43a8c196eeed.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="models\" />
-    <Folder Include="misc\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="MaterialDesignThemes" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="misc\perfil.png" />
+    <Resource Include="misc\user %281%29.png" />
+    <Resource Include="misc\llave.png" />
+    <Resource Include="misc\FondoLogin.jpg" />
+    <Resource Include="misc\user.png" />
+    <Resource Include="misc\Salir.png" />
+    <Resource Include="misc\Icono_Login.png" />
+    <Resource Include="views\photo-1512425296298-43a8c196eeed.jpg" />
   </ItemGroup>
 
 </Project>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1.views"
         mc:Ignorable="d"
-        Title="Menu Principal" Height="450" Width="800"
+        Title="Menu Principal" Height="450" Width="800" Icon="/misc/llave.png" WindowState="Maximized"
 
     xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
@@ -17,6 +17,7 @@
         FontFamily="{DynamicResource MaterialDesignFont}"
 >
     <Grid>
+        
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="*"/>
@@ -70,7 +71,7 @@
                 </Grid>
             </materialDesign:Card>
         </Grid>
-        <Grid Grid.Row="1" >
-        </Grid>
-    </Grid>
+        <Grid Grid.Row="1" />
+           </Grid>
+    
 </Window>

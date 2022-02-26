@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace WpfApp1.views
 {
     [Serializable]
-    public class NotificadorEvento: INotifyPropertyChanged
+    public partial class NotificadorEvento: INotifyPropertyChanged
     {
 
         private string nombre;
