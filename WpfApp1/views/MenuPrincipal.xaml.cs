@@ -31,8 +31,7 @@ namespace WpfApp1.views
 
         private void AccionVerProducto(object sender, RoutedEventArgs e)
         {
-            MostrarProductos mostrarProductos = new MostrarProductos();
-            mostrarProductos.Show();
+
         }
     }
 }

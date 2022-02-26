@@ -16,11 +16,6 @@
     <None Remove="main\Salir.png" />
     <None Remove="main\user %281%29.png" />
     <None Remove="main\user.png" />
-    <None Remove="views\photo-1512425296298-43a8c196eeed.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="models\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -35,7 +30,6 @@
     <Resource Include="misc\user.png" />
     <Resource Include="misc\Salir.png" />
     <Resource Include="misc\Icono_Login.png" />
-    <Resource Include="views\photo-1512425296298-43a8c196eeed.jpg" />
   </ItemGroup>
 
 </Project>

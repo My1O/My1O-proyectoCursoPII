@@ -61,9 +61,8 @@
                                     <MenuItem Header="Por Codigo" Style="{StaticResource MaterialDesignMenuItem}"/>
                                     <MenuItem Header="Por Nombre" Style="{StaticResource MaterialDesignMenuItem}"/>
                                 </MenuItem>
-                                <MenuItem Header="Ver" Style="{StaticResource MaterialDesignMenuItem}">
-                                    <MenuItem Header="Por Codigo" Style="{StaticResource MaterialDesignMenuItem}"/>
-                                    <MenuItem Header="Por Nombre" Style="{StaticResource MaterialDesignMenuItem}"/>
+                                <MenuItem x:Name="menuItemSalir" Header="Configurar" Style="{StaticResource MaterialDesignMenuItem}">
+                                    <MenuItem Header="Salir" Style="{StaticResource MaterialDesignMenuItem}"/>
                                 </MenuItem>
                             </Menu>
                         </StackPanel>

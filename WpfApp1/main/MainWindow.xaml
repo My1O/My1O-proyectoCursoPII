@@ -13,7 +13,7 @@
             </TextBlock.Background>
         </TextBlock>
         <Button Content="" HorizontalAlignment="Left" Margin="514,12,0,0"
-                VerticalAlignment="Top" Height="30" Width="30" Click="btn_Salir" FontFamily="Arial Black"
+                VerticalAlignment="Top" Height="30" Width="30" x:Name="btn_Salir" FontFamily="Arial Black"
                 FontWeight="Bold" FontSize="16" BorderBrush="{x:Null}" Foreground="White" Cursor="Hand">
             <Button.Background>
                 <ImageBrush ImageSource="/misc/Salir.png"/>
@@ -32,14 +32,14 @@
                      Width="285" Height="42" FontSize="16" FontFamily="Yu Gothic UI Semibold" OpacityMask="Black" 
                      BorderBrush="White" Background="{x:Null}" Foreground="White" CaretBrush="White"/>
         <Button Content="Ingresar" HorizontalAlignment="Left" Margin="371,282,0,0"
-                VerticalAlignment="Top" Height="42" Width="115" Click="btn_Ingresar" FontFamily="Arial Black"
+                VerticalAlignment="Top" Height="42" Width="115" x:Name="btn_Ingresar" FontFamily="Arial Black"
                 FontSize="16" Background="{x:Null}" BorderBrush="White" Foreground="White"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,40,0,0" TextWrapping="Wrap" 
                    Text="Iniciar Sesion" VerticalAlignment="Top" FontSize="24" FontFamily="Arial Black" Foreground="White"/>
         <Image HorizontalAlignment="Left" Height="152" Margin="33,101,0,0" 
                VerticalAlignment="Top" Width="132" Source="/misc/perfil.png"/>
         <Button Content="Registrarse" HorizontalAlignment="Left" Margin="201,282,0,0" 
-                VerticalAlignment="Top" Height="42" Width="143" Click="btn_Registrarse" FontSize="16" FontFamily="Arial Black" BorderBrush="White" Background="{x:Null}" Foreground="White"/>
+                VerticalAlignment="Top" Height="42" Width="143" x:Name="btn_Registrarse" FontSize="16" FontFamily="Arial Black" BorderBrush="White" Background="{x:Null}" Foreground="White"/>
         <Image HorizontalAlignment="Left" Height="54" Margin="494,110,0,0" VerticalAlignment="Top" Width="44" Source="/misc/user (1).png" />
         <Image HorizontalAlignment="Left" Height="52" Margin="491,191,0,0" VerticalAlignment="Top" Width="49" Source="/misc/llave.png"/>
 

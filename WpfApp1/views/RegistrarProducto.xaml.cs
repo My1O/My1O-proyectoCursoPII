@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WpfApp1.controllers;
 
 namespace WpfApp1.views
 {
@@ -22,11 +23,16 @@ namespace WpfApp1.views
         public RegistrarProducto()
         {
             InitializeComponent();
+            SetUpController();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void SetUpController()
         {
-            Environment.Exit(0);
+            RegistrarController rc = new RegistrarController(this);
+            RoutedEventHandler routed = new RoutedEventHandler(rc.MainWindowMenuItemEventHandler);
+            this.BtnGuardar.Click += routed;
+            this.BtnCargar.Click += routed;
+            this.BtnSalir.Click += routed;
         }
     }
 }
